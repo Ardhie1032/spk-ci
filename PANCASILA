@@ -1,0 +1,20 @@
+.:: PANCASILA ::.
+------------------
+1. Siapkan Kebutuhan Aplikasi
+2. Konfigurasi aplikasi di folder www -> config.php, routest.php, database.php, autoload.php dan .htaccess
+3. 
+
+
+.:: Undang Undang ::.
+----------------------
+1. Template Hitam - dark.css  		-> Administrator Utama (IT Aktor)
+2. Template Coklat - brown.css  	-> Manajer
+3. Template Merah - tamarillo.css 	-> Direktur
+4. Template Hijau - green.css 		-> Perawat
+5. Template Biru - eastern_blue.css	-> Pelanggan/ Konsumen
+
+
+.:: Kitab Amandemen ::.
+-----------------------
+
+1. https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues/347
